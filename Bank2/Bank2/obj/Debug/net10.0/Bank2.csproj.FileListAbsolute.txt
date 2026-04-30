@@ -1,0 +1,14 @@
+/Users/nimrodlubin/Desktop/Bank2/Bank2/obj/Debug/net10.0/Bank2.GeneratedMSBuildEditorConfig.editorconfig
+/Users/nimrodlubin/Desktop/Bank2/Bank2/obj/Debug/net10.0/Bank2.AssemblyInfoInputs.cache
+/Users/nimrodlubin/Desktop/Bank2/Bank2/obj/Debug/net10.0/Bank2.AssemblyInfo.cs
+/Users/nimrodlubin/Desktop/Bank2/Bank2/obj/Debug/net10.0/Bank2.csproj.CoreCompileInputs.cache
+/Users/nimrodlubin/Desktop/Bank2/Bank2/bin/Debug/net10.0/Bank2
+/Users/nimrodlubin/Desktop/Bank2/Bank2/bin/Debug/net10.0/Bank2.deps.json
+/Users/nimrodlubin/Desktop/Bank2/Bank2/bin/Debug/net10.0/Bank2.runtimeconfig.json
+/Users/nimrodlubin/Desktop/Bank2/Bank2/bin/Debug/net10.0/Bank2.dll
+/Users/nimrodlubin/Desktop/Bank2/Bank2/bin/Debug/net10.0/Bank2.pdb
+/Users/nimrodlubin/Desktop/Bank2/Bank2/obj/Debug/net10.0/Bank2.dll
+/Users/nimrodlubin/Desktop/Bank2/Bank2/obj/Debug/net10.0/refint/Bank2.dll
+/Users/nimrodlubin/Desktop/Bank2/Bank2/obj/Debug/net10.0/Bank2.pdb
+/Users/nimrodlubin/Desktop/Bank2/Bank2/obj/Debug/net10.0/Bank2.genruntimeconfig.cache
+/Users/nimrodlubin/Desktop/Bank2/Bank2/obj/Debug/net10.0/ref/Bank2.dll
